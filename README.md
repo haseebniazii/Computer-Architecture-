@@ -1,22 +1,17 @@
-💻 Computer Architecture Assignment
+# 💻 Computer Architecture Assignment
 
-👨‍🎓 Student Information
+## 👨‍🎓 Student Information
 
-- Name: Haseeb Khan
-- Program: BCS
-- Session: F24
-- Registration No: BCS-F24-E33
+- **Name:** Haseeb Khan
+- **Program:** BCS
+- **Session:** F24
+- **Registration No:** BCS-F24-E33
 
-📚 Course
-
+## 📚 Course
 Computer Architecture
 
-📝 Description
+## 📝 Description
+This repository contains my Computer Architecture assignment work.
 
-This repository contains my Computer Architecture assignment, including the required tasks, concepts, and implementations.
-
-
-👤 Author
-
-Haseeb Khan
-BCS-F24-E33
+## 👤 Author
+**Haseeb Khan**
